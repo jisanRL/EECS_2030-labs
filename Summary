@@ -1,0 +1,33 @@
+Lab summary :
+
+Lab 1: 
+The purpose of this lab is to review the following basic Java concepts that should have been covered in your previous courses:
+ > style
+ > using int and double values and variables
+ > arithmetic and the methods provided in java.lang.Math
+ > boolean expressions
+ > using objects
+ > if statements
+ > using Strings
+ > using Lists
+ > for loops
+This lab also introduces code testing using JUnit. This lab will be graded for style and correctness. 
+
+
+Lab 2/3: 
+The purpose of this lab is to implement some simple classes that are used to draw a famous fractal called the Koch snowflake.
+
+Lab 4/5: 
+The purpose of this lab is to modify the Turtle class from Lab 3 so that it uses composition, and to implement several 
+small classes in an inheritance hierarchy that encapsulate commands that a turtle can perform.
+
+
+Lab 6: 
+This lab focuses on implementing a node-based queue.
+
+Lab 7: 
+In this lab, you must implement 5 recursive algorithms. 
+You should review the course notes and lecture slides before attempting this lab.
+
+Lab 8: 
+The purpose of this lab is to implement methods that traverse a binary tree.
